@@ -1,4 +1,4 @@
-# Hey, thanks for stopping by 🪐 
+# Welcome 🪐 
 I'm currently a student at General Assembly enrolled in the Software Engineering Immersive. With over a decade of video editing and customer service experience, programming has always been a passion I've dreamed of pursuing!<br><br>  📍 Currently in Thousand Oaks, CA<br>  📜 Working on my programming skills daily<br>  💭 Procuring my dream to be a well versed developer<br>   <br>   <br>
 
 
